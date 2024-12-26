@@ -1,0 +1,6 @@
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+AI_Material/
+*.docx
+*.pdf
